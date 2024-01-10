@@ -33,3 +33,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Dependency files for Project
+mongodb-reactive-spring-boot/src/main/resources/application.properties
